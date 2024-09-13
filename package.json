@@ -2,7 +2,7 @@
   "name": "find-git-repositories",
   "version": "0.2.1",
   "description": "Finds Git Repos asynchronously",
-  "main": "build/Release/findGitRepos.node",
+  "main": "build/Debug/findGitRepos.node",
   "scripts": {
     "eslint": "eslint js/src js/spec",
     "test": "mocha"
